@@ -1,5 +1,4 @@
 // https://codeforces.com/blog/entry/73558
-// https://leetcode.com/problems/valid-sudoku/
 // #include <bits/stdc++.h>
 #include <iostream>
 #include <iomanip>
